@@ -33,27 +33,7 @@ This project provides an API for uploading images to **Cloudinary** using **Mult
 └── 📄 README.md  # Project documentation
 ```
 
-## 📌 Setup & Installation
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
-2. **Install dependencies**
-   ```sh
-   npm install
-   ```
-3. **Set up environment variables** (`.env` file)
-   ```env
-   CLOUDINARY_CLOUD_NAME=your_cloud_name
-   CLOUDINARY_API_KEY=your_api_key
-   CLOUDINARY_API_SECRET=your_api_secret
-   MONGO_URI=your_mongodb_connection_string
-   ```
-4. **Start the server**
-   ```sh
-   npm start
-   ```
+
 
 ## 📤 API Endpoints
 ### 1️⃣ Upload Image
